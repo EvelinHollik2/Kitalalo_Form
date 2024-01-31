@@ -1,0 +1,10 @@
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.csproj.AssemblyReference.cache
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.Form1.resources
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.Properties.Resources.resources
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.csproj.GenerateResource.cache
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.csproj.CoreCompileInputs.cache
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\bin\Debug\WindowsFormsApp_Kitallo.exe.config
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\bin\Debug\WindowsFormsApp_Kitallo.exe
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\bin\Debug\WindowsFormsApp_Kitallo.pdb
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.exe
+C:\Users\Evelin\Desktop\suli\2.14-1\B141\WindowsFormsApp_Kitallo\WindowsFormsApp_Kitallo\obj\Debug\WindowsFormsApp_Kitallo.pdb
